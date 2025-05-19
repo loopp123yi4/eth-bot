@@ -1,1 +1,1 @@
-Procfile
+python bot.py
